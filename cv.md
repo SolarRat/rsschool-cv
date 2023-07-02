@@ -1,15 +1,15 @@
-#Violetta Dmitrieva
+# Violetta Dmitrieva
 
-#Contacts:
+# Contacts:
 tel.: +999999999
 Discord: @fish
 mail: fish@fish.com
 
-#Me:
+# Me:
 
-#Skills:
+# Skills:
 
-#Code Example:
+# Code Example:
 ```
 using System.Collections.Generic;
 using System.Linq;
@@ -46,11 +46,9 @@ public class HumanTimeFormat{
 }
 ```
 
-#Expirience
+# Expirience
 
-#Education
+# Education
 
-#Languages
+# Languages
 
-
-```
